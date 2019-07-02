@@ -17,6 +17,6 @@ This CocoaPods library helps you perform calculation.
   spec.swift_version = "4.2"
 
   spec.source        = { :git => "https://akula84@github.com/akula84/PodTwo.git", :tag => "#{spec.version}" }
-  spec.source_files  = "PodOne/**/*.{h,m,swift}"
+  spec.source_files  = "PodTwo/**/*.{h,m,swift}"
 
 end
