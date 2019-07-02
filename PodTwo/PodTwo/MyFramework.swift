@@ -10,5 +10,7 @@ import Foundation
 
 public class MyFramework {
     public static let shared = MyFramework()
-    public func foo() {}
+    public func foo() {
+        print("Запуск из PodTwo")
+    }
 }
